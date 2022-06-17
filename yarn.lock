@@ -1261,7 +1261,10 @@
 "@screens/notifications-preference@file:./screens/notifications-preference":
   version "1.0.0"
 
-"@screens/profile@file:./screens/profile/":
+"@screens/payment-subscription@file:./screens/payment-subscription/":
+  version "1.0.0"
+
+"@screens/profile@file:./screens/profile":
   version "1.0.0"
 
 "@screens/terms-and-conditions@file:./screens/terms-and-conditions":
