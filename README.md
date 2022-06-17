@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-terms-and-conditions](screens/terms-and-conditions)
 - [screen-wallet](screens/wallet)
 - [screen-account-settings](screens/account-settings)
+- [django-push-notifications](backend/modules/push-notifications)
 
 # Getting started: Frontend
 
