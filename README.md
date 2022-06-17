@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-calendar](screens/appointment-calendar)
 - [screen-forgot-password](screens/forgot-password)
 - [react-native-social-login](modules/social-login)
+- [screen-profile](screens/profile)
 
 # Getting started: Frontend
 
