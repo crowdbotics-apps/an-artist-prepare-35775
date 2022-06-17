@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-chat](modules/chat)
 - [screen-terms-and-conditions](screens/terms-and-conditions)
 - [screen-wallet](screens/wallet)
+- [screen-account-settings](screens/account-settings)
 
 # Getting started: Frontend
 
