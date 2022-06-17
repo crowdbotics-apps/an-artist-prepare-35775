@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-notifications-preference](screens/notifications-preference)
 - [django-articles](backend/modules)
 - [screen-appointment-calendar](screens/appointment-calendar)
+- [screen-forgot-password](screens/forgot-password)
 
 # Getting started: Frontend
 
