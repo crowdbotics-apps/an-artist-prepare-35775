@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-profile](screens/profile)
 - [screen-payment-subscriptions](screens/payment-subscription)
 - [screen-onboarding](screens/onboarding)
+- [screen-welcome](screens/welcome)
 
 # Getting started: Frontend
 
