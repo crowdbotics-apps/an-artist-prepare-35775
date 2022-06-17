@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-push-notifications](modules/push-notifications)
 - [screen-notifications-preference](screens/notifications-preference)
 - [django-articles](backend/modules)
+- [screen-appointment-calendar](screens/appointment-calendar)
 
 # Getting started: Frontend
 
